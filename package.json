@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/knowhere-studio/nprogress.git"
+    "url": "git+https://github.com/knowhere-studio/nprogress.git"
   },
   "scripts": {
     "test": "mocha"
@@ -43,5 +43,12 @@
       "test",
       "vendor"
     ]
+  },
+  "bugs": {
+    "url": "https://github.com/knowhere-studio/nprogress/issues"
+  },
+  "homepage": "https://github.com/knowhere-studio/nprogress#readme",
+  "directories": {
+    "test": "test"
   }
 }
